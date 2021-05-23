@@ -11,7 +11,7 @@ I've completed numerous projects for clients on Upwork and other platforms, whic
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~0106dee6f180cc232d) 
 - 👯 I’m looking to collaborate on [Retool](https://retool.com) 
-- 💬 Ask me about [Retool](https://retool.com) [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- 💬 Ask me about [Retool](https://retool.com) , [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - 📫 How to reach me: ahmed.tabraiz4@gmail.com 
 - 😄 Pronouns: he/him/his 
 
