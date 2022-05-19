@@ -3,9 +3,6 @@ I'm a result-oriented developer with experience in dotnet core, dotnet, Azure, S
 
 I have been working in dot net/core stack since 2014 and have developed enterprise-level applications. I have developed complex HL7 and firebase applications for IT-based health organisations. Also, have years of experience working with Fintech startups and integrating Yapily and Klarna payment gateways. I did different integrations like Twillio SMS, Azure bus, Roaring Apis and PEP and sanctions screening APIs.
 
-I have experience in working with identity servers and Auth0 integrations. I also worked in Umbraco CMS.
-I'm a full-time freelancer and can work more than 40 hours per week. I gained a Top-Rated freelancer badge on Upwork with excellent delivery and value.
-
 Don't hesitate to contact me if you need any help in Health Care IT, HL7, Fintech solutions or e-commerce based solutions.
 
 I love to work as a Backend developer and have experience with software architecture and cloud development. I also enjoy working with no-code platforms. I have extensive experience working with [Retool](https://retool.com). Retool is an online tool that provides you with the ability to create internal tools for your organization. For a living, I do freelancing and, you can check my profile on [Upwork](https://www.upwork.com/freelancers/~0106dee6f180cc232d).
